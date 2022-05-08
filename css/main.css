@@ -1455,7 +1455,7 @@ header .left {
 }
 
 .footer {
-    padding: 10rem 0;
+    padding: 5rem 0;
 }
 
 .footer .container {
@@ -1960,7 +1960,7 @@ header .left {
     .sectionone {
         background-color: var(--bg);
         width: 100%;
-        height: 94vh;
+        height: 150vh;
         padding-top: 10rem;
     }
 
@@ -2450,7 +2450,7 @@ header .left {
     }
 
     .sectionone .right .inner_btn {
-        gap: 1rem;
+        gap: 2rem;
     }
 
     .sectionone .right .box .inner_btn a {
@@ -2512,7 +2512,7 @@ header .left {
     }
 
     .sectionthree {
-        height: 116vh;
+        height: 161vh;
     }
 
     .container_fluid {
@@ -2795,12 +2795,12 @@ header .left {
     .sectionone .right .box {
         background-color: #fff;
         padding: 2rem 1rem;
-        width: 24.6rem;
+        width: 34.6rem;
         gap: 2rem;
     }
 
     .sectionone .right h2 {
-        font-size: 1.7rem;
+        font-size: 2.3rem;
         white-space: nowrap;
     }
 
@@ -2810,17 +2810,17 @@ header .left {
     }
 
     .sectionone .right .box .inner_btn a {
-        padding: 0.6rem 1rem;
+        padding: 0.6rem 3rem;
     }
 
     .signup::before {
-        top: 23.7rem;
-        left: 1.8rem;
+        top: 24.1rem;
+        left: 5.8rem;
     }
 
     .signup::after {
-        top: 23.7rem;
-        left: 18.7rem;
+        top: 24.4rem;
+        left: 24.7rem;
     }
 
     .container-slider {
@@ -2977,9 +2977,9 @@ header .left {
 }
 .sectionnine {
     width: 100%;
-    height: 39vh;
+    height: 34vh;
     background-color: var(--bg);
-    padding: 10rem 0;
+    padding: 6rem 0;
 }
 .sectionnine .inner_text {
     gap: 1rem;
@@ -3009,6 +3009,12 @@ header .left {
 }
 .footer .container {
     width: 250px;
+}
+.footer__logo .inner_img {
+    width: 51%;
+}
+.footer i {
+    font-size: 1.9rem;
 }
 }
 
